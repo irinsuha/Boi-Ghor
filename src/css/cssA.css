@@ -1,0 +1,140 @@
+body{
+	padding: 1em;
+	background-color: #b8b894;
+}
+#page{
+
+	margin: 0px 30px 0px 30px;
+	background-color: #999;
+}
+header{
+	text-align: center;
+	padding: 1em;
+	margin: 0px;
+	background-color: #000;
+	color: white;
+}
+footer{
+	text-align: center;
+	padding: 1em;
+	background: dotted blue;
+	color: white;
+	font-size: 8px;
+}
+#menu{
+	height: 42px; 
+	background-color: gray;
+	margin: 0px;
+}
+#menu ul{
+	list-style-type: none;
+	margin: 0px;
+	padding-right: 40px;
+}
+#menu ul li{
+	display: inline;
+}
+#menu ul li a{
+	float: left;
+	text-decoration: none;
+	color: white;
+	padding: 10px 40px;
+}
+#menu ul li a:hover,#menu ul li a.active{
+	background-color: white;
+	color: cornflowerblue;
+	border-radius: 5px;
+}
+
+#content{
+	padding: 0px,20px;
+	background-color: white; 
+	height: 3500px;
+}
+#content_left{
+	float: left;
+	width: 188px;
+	padding: 10px;
+	background-color:#00004d ;
+	border: 1px solid #212120;
+	margin: 10px;
+	height: 3400px;
+}
+.content_left_selection{
+	padding-bottom: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	border-bottom: 1px solid lightgreen;
+	margin-bottom: 20px;
+
+}
+.content_left_selection h1{
+	color: gray;
+	font-size: 20px;
+	padding-left: 5px;
+	padding-top: 1em;
+	padding-bottom: 5px;
+	margin-bottom: 5px;
+	border-bottom: 1px solid lightgreen; 
+}
+.content_left_selection ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+.content_left_selection ul li{
+	padding-bottom: 3px;
+	padding-left: 14px; 
+}
+.content_left_selection ul li a{
+	text-decoration: none;
+	color: green;
+	font-size: 14px;
+}
+.content_left_selection ul li a:hover{
+	color: yellow;
+}
+
+
+#conent_right{
+	width: 670px;
+
+}
+#content_right ul{
+	margin: 0px 360px 0px 280px;
+	padding: 10px;
+	list-style-type: none;
+	border: 3px solid  #cccc99;
+	background-color: #d8fe9e;
+}
+#content_right ul:hover{
+	border: 3px solid #d8fe9e;
+	background-color:  #a6ff4d;
+}
+#content_right ul li{
+	display: inline;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-right: 2px solid green;
+
+
+}
+#list{
+	text-align: left;
+}
+#list ul{
+	margin: 0px 460px 0px 280px;
+	padding: 10px;
+	list-style-type: none;
+	border: 3px solid yellow;
+	background-color: white;
+}
+#list ul li{
+	display: inline;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+h2{
+	margin: 0px;
+	padding: 30px 20px 20px 250px;
+}
