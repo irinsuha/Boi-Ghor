@@ -2,7 +2,7 @@ PROJECT DETAILS:
 
 	PROJECT NAME : BOI GHOR.
 
-	TEAM MEMBERS : Kazi Hasib Ahmed and Irin Suha.
+	TEAM MEMBERS : Kazi Hasib Ahmed and Farhana Irin.
 
 REQUIRED SOFTWEAR:
 
